@@ -1,0 +1,2 @@
+img,output,timestamp
+.gradio\flagged\img\7b76032025107fbe936c\grizzly.jpg,"{""label"": ""grizzly"", ""confidences"": [{""label"": ""grizzly"", ""confidence"": 0.9987035989761353}, {""label"": ""black"", ""confidence"": 0.001282908022403717}, {""label"": ""teddy"", ""confidence"": 1.3416211004368961e-05}]}",2025-09-15 23:27:36.605640
